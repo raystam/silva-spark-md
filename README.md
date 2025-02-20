@@ -1,8 +1,8 @@
 <p align="center">
-  <h1 align="center">Ray  The Don h1>
+  <h1 align="center">Ray The Don's Creation</h1>
 </p>
 
-> **`Updated` Ray The Don  with Latest Features**
+> **`Updated` Ray The Don's Creation with Latest Features**
 
 ---
 ### 🌟 Connect With Me
@@ -14,28 +14,28 @@
 </p>
 
 ---
-# Support Silva Tech Inc ❤️
+# Support Ray The Don's Creation ❤️
 
-[![Sponsor SilvaTechB](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
+[![Sponsor Ray The Don](https://img.shields.io/badge/Sponsor-RayTheDon-important)](https://github.com/sponsors/RayTheDon)
 
 ---
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=Silva+Spark+MD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="SilvaTechBReadme">
+  <a href="https://github.com/RayTheDon">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=Ray+The+Don's+Creation;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="RayTheDonReadme">
   </a>
 </p>
 
 --- 
 <p align="center">
-<a><img src='./sylivanus/SilvaSpark.png'/></a>
+<a><img src='./raythedon/RayTheDonCreation.png'/></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB"><img title="Developer" src="https://img.shields.io/badge/Author-Silva%20TechB-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/RayTheDon"><img title="Developer" src="https://img.shields.io/badge/Author-Ray%20The%20Don-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -43,15 +43,15 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SilvaSparkMD}/count.svg" alt="SilvaTechB :: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{RayTheDon}/count.svg" alt="RayTheDon :: Visitor's Count" /></p>
 
 <p align="center">
-<a href="https://github.com/SilvaTechB/silva-spark-md"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SilvaSparkMD&label=VIEWS&style=flat-square&color=purple" />
+<a href="https://github.com/RayTheDon/ray-the-dons-creation"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=RayTheDon&label=VIEWS&style=flat-square&color=purple" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB/silva-spark-md"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/RayTheDon/ray-the-dons-creation"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 ---
@@ -60,13 +60,13 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/SilvaTechB/silva-spark-md/fork"><img title="silva-spark-md" src="https://img.shields.io/badge/FORK-silva%20spark%20md-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/RayTheDon/ray-the-dons-creation/fork"><img title="ray-the-dons-creation" src="https://img.shields.io/badge/FORK-ray%20the%20dons%20creation-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. Get Session ID
 
-You will need a session ID to run Silva Spark MD. Click the button below to obtain your session ID:
+You will need a session ID to run Ray The Don's Creation. Click the button below to obtain your session ID:
 
-<a href='https://silva-session-selector.vercel.app' target="_blank">
+<a href='https://ray-session-selector.vercel.app' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
@@ -79,12 +79,12 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 <h4 align="center">1. Heroku</h4>
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/silva-spark-md' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/RayTheDon/ray-the-dons-creation' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
 <h4 align="center">2. Koyeb</h4>
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=SilvaTechB/silva-spark-md&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=RayTheDon/ray-the-dons-creation&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 </p>
 
 <h4 align="center">3. Railway</h4>
@@ -109,32 +109,19 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 ---
 
-## 🔗 Silva Spark MD Info
+## 🔗 Ray The Don's Creation Info
 
   <p align="center">
-<a href="https://github.com/SilvaTechB/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/"><img title="Size" src="https://img.shields.io/github/repo-size/SilvaTechB/silva-spark-md?style=flat-square&color=green"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
+<a href="https://github.com/RayTheDon/followers"><img title="Followers" src="https://img.shields.io/github/followers/RayTheDon?color=blue&style=flat-square"></a>
+<a href="https://github.com/RayTheDon/ray-the-dons-creation/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RayTheDon/ray-the-dons-creation?color=blue&style=flat-square"></a>
 </p>
 
 ---
 
 <h2 align="left">⚠️ Reminder</h2>
 <p align="center">
-
-- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
-- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
-- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
-
----
-
-<h2 align="left">ℹ️ Notice</h2>
-<p align="center">
-  Not For Sale - If any plugin's code is obfuscated, you do not have permission to edit it in any form. Please remember to give credit if you are using or re-uploading my plugins/files. Wishing you a wonderful day ahead!</p>
+- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use at your own risk.
+</p>
 
 ---
 
@@ -144,22 +131,13 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 ### Thanks To Team ⤵️
 
-> Silva Spark MD Owner 
-- [Silva TechB](https://github.com/SilvaTechB)
-- Creator and Owner Of Silva Spark MD
-
----
-
- <br>
-<h2 align="center"> ⚠️ Warning ⚠️
- </h2>
+> Ray The Don's Creation Owner 
+- [Ray The Don](https://github.com/RayTheDon)
 
 ---
 
 <h3 align="center"> Don't Copy Without Permission </h3>
 
-<br>
+---
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
----
