@@ -1,7 +1,7 @@
 {
-  "name": "silva-spark-md",
-  "description": "Javascript WhatsApp bot made by Silva.",
-  "keywords": ["silva-spark-md"],
+  "name": "ray-the-don-wire",
+  "description": "Javascript WhatsApp bot made by Ray The Don.",
+  "keywords": ["ray-the-don-wire"],
   "success_url": "/",
 
     "stack": "container",
@@ -21,7 +21,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> SILVA SPARK IS SPARKING ACTIVE AND ALIVE⚡"
+      "value": "> Ray The Don IS Donningly ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -31,7 +31,7 @@
     },
     
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
+      "description": "select how you want the bot to work, either in public or in private.  type public-private-inbox-group.",
       "required": false,
       "value": "public"
       
@@ -39,13 +39,13 @@
     
     
     "ALWAYS_ONLINE": {
-      "description": "Make it true if want always online.",
+      "description": "type the word "true" if you want the bot to keep you always online even when you're not.",
       "required": false,
       "value": "false"  
     },    
   
     "AUTO_VOICE": {
-      "description": "Make it true if want automatic voice reply .",
+      "description": "type true if you want the bot to automatically  reply by voice.",
       "required": false,
       "value": "false"
     }, 
@@ -57,25 +57,25 @@
     }, 
 
     "AUTO_STICKER": {
-      "description": "Make it true if you want automatic sticker.",
+      "description": "Type true if you want an automatic sticker.",
       "required": false,
       "value": "false"
     }, 
 
 
     "AUTO_STATUS_SEEN": {
-      "description": "Make it true for automatic status seen.",
+      "description": "Type the word "true" for an automatic viewing of status to your contacts.",
       "required": true,
       "value": "true"
     }, 
 
     "AUTO_STATUS_REPLY": {
-      "description": "Make it true for auto reply msg on status seen.",
+      "description": "Type "true" for auto reply message after viewing the status.",
       "required": true,
       "value": "false"
     }, 
 
-    "AUTO_STATUS__MSG": {
+    "AUTO_STATUS__Message": {
       "description": "Type custom message on status reply",
       "required": true,
       "value": "*🎉👀 Seen by Silva Spark MD 🚀🔥*"
@@ -84,32 +84,32 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Silva Spark"
+      "value": "Ray The Don"
 }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "put the owner number for the bot.",
       "required": false,
-      "value": "254700143167"
+      "value": "254741836124"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ Silva ✦ Spark ✦ MD ✦"
+      "value": " Ray The Don Wire"
 
       }, 
 
     "ANTI_LINK": {
-      "description": "Make it true if you want bot auto remove group link.",
+      "description": "Type the word true if you want the bot to auto remove group link.",
       "required": true,
       "value": "true"
       
     },
     
-    "ANTI_BAD": {
-      "description": "Make it true if you want bot auto delete bad words.",
+    "BAD-WORDS": {
+      "description": "Type true if you want the bot auto delete bad words.",
       "required": false,
       "value": "false"
     }, 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦ Silva ✦ Spark ✦ MD ✦*"
+      "value": "© Ray The Don Wire"
     },
 
       "DELETE_LINKS": {
@@ -133,7 +133,7 @@
     },
 
     "AUTO_TYPING": {
-      "description": "Make it true if you want auto typing.",
+      "description": "Type "true" if you want the bot to make an auto typing status even when you're not typing.",
       "required": false,
       "value": "false"
     },
@@ -145,7 +145,7 @@
     },
 
     "OWNER_REACT": {
-      "description": "Make it true if you only want react on Owner Massages.",
+      "description": "Make it true if you only want react on Owner Messages.",
       "required": false,
       "value": "true"
       

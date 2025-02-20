@@ -1,12 +1,12 @@
 {
-  "name": "silva-spark-md",
+  "name": "ray-the-don-wire",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By silva tech inc",
+  "description": "A WhatsApp Bot Created By Raydonic Creations",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name silva-spark-md",
-    "stop": "pm2 stop silva-spark-md",
-    "restart": "pm2 restart silva-spark-md"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ray-the-don-wire",
+    "stop": "pm2 stop ray-the-don-wire",
+    "restart": "pm2 restart ray-the-don-wire"
   },
    "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",

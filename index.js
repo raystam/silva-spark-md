@@ -41,7 +41,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254700143167']
+  const ownerNumber = ['254741836124']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -59,7 +59,7 @@ const {
       });
   }
   
-  // Clear the temp directory every 5 minutes
+  // Clear the temp directory every 5 minute
   setInterval(clearTempDir, 5 * 60 * 1000);
   
   //===================SESSION-AUTH============================
@@ -110,7 +110,7 @@ console.log("Session downloaded ✅")
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there ✦ Silva ✦ Spark ✦ MD ✦ User! \ud83d\udc4b\ud83c\udffb* \n\n> This is auser friendly whatsapp bot created by Silva Tech Inc \ud83c\udf8a, Meet ✦ Silva ✦ Spark ✦ MD ✦ WhatsApp Bot.\n\n *Thanks for using ✦ Silva ✦ Spark ✦ MD ✦ \ud83d\udea9* \n\n> follow WhatsApp Channel :- 💖\n \nhttps://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/SilvaTechB/silva-spark-md\n\n> © Powered BY ✦ Silva ✦ Spark ✦ MD ✦ \ud83d\udda4`;
+  let up = `*Hello there  Ray The Don's Bot User! \ud83d\udc4b\ud83c\udffb* \n\n> This is a friendly whatsapp bot created by Ray The Don Creation\ud83c\udf8a, Meet Ray The Don's WhatsApp Bot.\n\n *Thanks for using Ray The Don 's creation'✦ \ud83d\udea9* \n\n> \n\n- *YOUR PREFIX:* = ${prefix}\n\n© Powered BY Ray The Don\ud83d\udda4`;
   conn.sendMessage(conn.user.id, { image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` }, caption: up })
   }
   })
